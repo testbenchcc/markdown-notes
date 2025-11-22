@@ -1,7 +1,7 @@
 {
   "editorSpellcheck": false,
   "theme": "office",
-  "exportTheme": "match-app-theme",
+  "exportTheme": "gruvbox-dark",
   "autoCommitNotes": true,
   "autoPullNotes": true,
   "autoPullIntervalMinutes": 30,
