@@ -71,6 +71,7 @@ Now you have two commits:
     
 - **Today’s current state**
     
+You will now have all the snapshots field service and the customer took over the last two years.
 
 ### **What You Can Do Now**
 
