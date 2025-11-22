@@ -10,7 +10,7 @@
   - [x] Create note
 - [x] File-system storage only under `notes/`.
 - [x] Simple HTML/CSS/JS single-page UI:
-  - [x] Collapsible left-hand tree view
+    - [x] Collapsible left-hand tree view
   - [x] Right-hand markdown viewer/editor
   - [x] View/Edit toggle and Save button
   - [x] Resizable panes via draggable splitter
