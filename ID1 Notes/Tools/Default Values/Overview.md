@@ -148,7 +148,8 @@ You don’t need to be a programmer to understand the basics:
 - The HMI writes them into a CSV file
     
 - The CSV files live on the SD card where they are safe
-    
+
+-blaaa
 
 For setpoints:
 
