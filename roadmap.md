@@ -2,6 +2,10 @@
 
 ## v1 – Core notebook (this repo)
 
+![image](/files/images/img-20251122-220330-f661.png)
+
+
+
 - [x] FastAPI backend serving:
   - [x] Notes tree (`/api/tree`)
   - [x] Get note
