@@ -11,7 +11,7 @@
 - [x] File-system storage only under `notes/`.
 - [x] Simple HTML/CSS/JS single-page UI:
 - [x] Collapsible left-hand tree view
-  - [x] Right-hand markdown viewer/editor
+    - [x] Right-hand markdown viewer/editor
   - [x] View/Edit toggle and Save button
   - [x] Resizable panes via draggable splitter
 - [x] Dockerfile and docker-compose.yml for portable usage.
