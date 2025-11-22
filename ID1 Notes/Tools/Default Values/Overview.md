@@ -19,6 +19,9 @@ Both types of data are saved in safe folders on the HMI’s SD card.
 
 ## **1. What This Feature Does**
 
+![image](/files/images/img-20251122-220220-75bb.png)
+
+
 We added a function to the PLC and HMI that lets us capture:
 
 - Every channel’s IO configuration and status
