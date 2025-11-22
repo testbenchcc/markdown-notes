@@ -33,7 +33,7 @@ flowchart LR
 ```
 
 ```mermaid
-flowchart TB
+flowchart LR
   %% Primary engine modes
   STOP([Stop])
   MAN([Manual])
