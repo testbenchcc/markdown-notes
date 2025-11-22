@@ -5,5 +5,11 @@
   "autoCommitNotes": true,
   "autoPullNotes": true,
   "autoPullIntervalMinutes": 30,
-  "indexPageTitle": "Notes"
+  "indexPageTitle": "Notes",
+  "imageStoragePath": "images",
+  "imageMaxPasteBytes": 5242880,
+  "imageDisplayMode": "fit-width",
+  "imageMaxDisplayWidth": 1024,
+  "imageMaxDisplayHeight": 768,
+  "imageDefaultAlignment": "center"
 }
