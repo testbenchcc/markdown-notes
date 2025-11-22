@@ -260,13 +260,36 @@ All without touching the PLC program.
 
 ---
 
-If you want next:
+```mermaid
+flowchart LR
+    REPO[(Copia
+          Online
+          Repository)]
 
-- A flowchart for both workflows
+    subgraph customer location
+        SYSTEM{{System}}
+        subgraph service computer
+            subgraph local repository
+                SCRIPT(smb-share.ps1)
+                subgraph file share
+                    FOLDER[projectData]
+                end 
+            end
+        end
+    end
+
+    SYSTEM -- SYNC --> FOLDER -- SYNC --> SYSTEM
+    FOLDER -- PUSH --> REPO
+    REPO -- PULL --> FOLDER
     
-- A one-page laminated cheat sheet
-    
-- A training lesson or slides
-    
-- A troubleshooting section  
-    Just tell me.
+    subgraph front office
+        FS[Field Service]
+        ENG[Engeneering]
+    end
+
+    FS -- edit --> REPO
+    REPO -- view --> FS
+
+    ENG -- edit --> REPO
+    REPO -- view --> ENG    
+```
