@@ -1,7 +1,7 @@
 {
   "editorSpellcheck": false,
   "theme": "midnight",
-  "exportTheme": "gruvbox-dark",
+  "exportTheme": "match-app-theme",
   "autoCommitNotes": true,
   "autoPullNotes": true,
   "autoPullIntervalMinutes": 30,
