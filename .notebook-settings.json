@@ -11,5 +11,5 @@
   "imageDisplayMode": "fit-width",
   "imageMaxDisplayWidth": 768,
   "imageMaxDisplayHeight": 768,
-  "imageDefaultAlignment": "left"
+  "imageDefaultAlignment": "center"
 }

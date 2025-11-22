@@ -120,11 +120,9 @@ The idea is:
     
 3. This program creates a folder on your laptop called:
     
-    ```
-    Project Data
-    ```
+    `projectData`
     
-    (Capital D in Data)
+(Capital D in Data)
     
 4. It also makes that folder accessible as a network share automatically.
     
