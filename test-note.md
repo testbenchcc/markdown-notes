@@ -123,7 +123,7 @@ Swap the _field list_ and the argument map for DIM/DOM to create their counterpa
 
 ---
 
-## 6 Best-practice checklist
+## 6 Best-practice checklist 
 
 - **Invert `present` → `.notPres`** every time.
     
