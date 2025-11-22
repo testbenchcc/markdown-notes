@@ -32,4 +32,3 @@ Commonly used tags within the **CTU/BCTU/CDM/CTDM**
 | ENG02.Engine.Out.Global | |
 | ENG02.Engine.Sts.Run | |
 
-![image](/files/images/img-20251122-222737-37e4.png)

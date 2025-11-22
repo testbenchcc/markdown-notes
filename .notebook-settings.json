@@ -9,7 +9,7 @@
   "imageStoragePath": "images",
   "imageMaxPasteBytes": 5242880,
   "imageDisplayMode": "fit-width",
-  "imageMaxDisplayWidth": 1024,
+  "imageMaxDisplayWidth": 768,
   "imageMaxDisplayHeight": 768,
-  "imageDefaultAlignment": "center"
+  "imageDefaultAlignment": "left"
 }
