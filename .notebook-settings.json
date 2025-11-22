@@ -1,0 +1,11 @@
+{
+  "editorSpellcheck": false,
+  "theme": "gruvbox-dark",
+  "exportTheme": "match-app-theme",
+  "autoCommitNotes": true,
+  "autoPullNotes": true,
+  "autoPullIntervalMinutes": 30,
+  "autoPullAppOnRelease": false,
+  "autoPullAppIntervalMinutes": 60,
+  "indexPageTitle": "NoteBooks"
+}
