@@ -1,5 +1,5 @@
 # Markdown Notes App Roadmap
- 
+
 ## v1 – Core notebook (this repo)
 
 - [x] FastAPI backend serving:
