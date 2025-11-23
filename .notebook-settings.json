@@ -5,11 +5,12 @@
   "autoCommitNotes": true,
   "autoPullNotes": true,
   "autoPullIntervalMinutes": 30,
+  "autoSaveIntervalSeconds": 60,
   "indexPageTitle": "Notes",
   "imageStoragePath": "images",
   "imageMaxPasteBytes": 5242880,
   "imageDisplayMode": "fit-width",
   "imageMaxDisplayWidth": 768,
   "imageMaxDisplayHeight": 768,
-  "imageDefaultAlignment": "center"
+  "imageDefaultAlignment": "left"
 }
