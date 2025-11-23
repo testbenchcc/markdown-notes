@@ -5,6 +5,7 @@ flowchart LR
   MAN([Manual])
   AUTO([Auto])
   SOURCE{ANY SOURCE?}
+
   DEMAND{DEMAND?}
   FILL{FILL REQUEST?}
   TRANSFER
@@ -18,6 +19,7 @@ flowchart LR
     SUPPLYING
     STANDBY
   end
+
 
   %% Allowed transitions (per your rundown)
   STOP --> MAN
