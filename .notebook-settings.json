@@ -4,13 +4,16 @@
   "exportTheme": "match-app-theme",
   "autoCommitNotes": true,
   "autoPullNotes": true,
-  "autoPullIntervalMinutes": 30,
+  "autoPullIntervalMinutes": 1,
   "autoSaveIntervalSeconds": 60,
+  "tabLength": 2,
   "indexPageTitle": "Notes",
   "imageStoragePath": "images",
   "imageMaxPasteBytes": 5242880,
   "imageDisplayMode": "fit-width",
   "imageMaxDisplayWidth": 768,
   "imageMaxDisplayHeight": 768,
-  "imageDefaultAlignment": "left"
+  "imageDefaultAlignment": "left",
+  "dateFormat": "YYYY-MM-DD",
+  "timeFormat": "HH:mm"
 }
