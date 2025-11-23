@@ -5,7 +5,6 @@ flowchart LR
   MAN([Manual])
   AUTO([Auto])
   SOURCE{ANY SOURCE?}
-2025-11-23 10:32
   DEMAND{DEMAND?}
   FILL{FILL REQUEST?}
   TRANSFER
