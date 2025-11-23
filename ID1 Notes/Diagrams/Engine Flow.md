@@ -19,7 +19,6 @@ flowchart LR
     STANDBY
   end
 
-
   %% Allowed transitions (per your rundown)
   STOP --> MAN
   MAN -. RUN / Maint .-> MAN
