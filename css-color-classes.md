@@ -15,5 +15,3 @@
 2025-11-22 21:08
 
 21:08
-
-![image](/files/./Images/css-color-classes-20251124-184223-298388.png)
