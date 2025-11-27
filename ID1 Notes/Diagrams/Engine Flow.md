@@ -1,5 +1,13 @@
+## Normal Mermaid Chart
+
 ```mermaid
+---
+title: Engine States
+config:
+  theme: dark
+---
 flowchart LR
+
   %% Primary engine modes
   STOP([Stop])
   MAN([Manual])
@@ -49,5 +57,17 @@ flowchart LR
   INTERVAL -- TRUE --> RECIRCULATE
   INTERVAL -- FALSE --> STANDBY  
   RECIRCULATE -- DURATION --> RECIRCULATE
+```
+
+
+```mermaid-remote
+id: 6
+title: notes logger
+```
+
+
+```mermaid-remote
+id: 5
+title: snapshot access
 ```
 
