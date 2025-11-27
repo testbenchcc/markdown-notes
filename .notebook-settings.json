@@ -1,9 +1,9 @@
 {
-  "autoCommitEnabled": false,
+  "autoCommitEnabled": true,
   "autoCommitIntervalSeconds": 60,
   "autoPullEnabled": true,
   "autoPullIntervalSeconds": 300,
-  "autoPushEnabled": false,
+  "autoPushEnabled": true,
   "autoPushIntervalSeconds": 300,
   "imageFitToNoteWidth": true,
   "imageLocalSubfolderName": "Images",
