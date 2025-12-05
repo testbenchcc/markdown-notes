@@ -47,3 +47,4 @@ Open the script and edit these variables near the top:
 $defaultIP  = '33.7.0.2'   # default target address
 $viewerPath = 'C:\Program Files\Siemens\Automation\Portal V19\Bin\RTILtraceViewer.exe'
 $toolPath   = 'C:\Program Files\Siemens\Automation\WinCCUnified\bin\RTILtraceTool.exe'
+```
