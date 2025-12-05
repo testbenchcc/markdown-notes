@@ -59,12 +59,7 @@ flowchart LR
   RECIRCULATE -- DURATION --> RECIRCULATE
 ```
 
-
-```mermaid-remote
-id: 6
-title: notes logger
-```
-
+## Snapshot access
 
 ```mermaid-remote
 id: 5
